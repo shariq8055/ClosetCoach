@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Data files (too large for GitHub)
+ClosetCoach-Backend/data/
+*.pkl
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.log
+temp_*.jpg
+*.tmp
