@@ -1,0 +1,10 @@
+opencv-python
+numpy
+scikit-learn
+fastapi
+uvicorn
+pillow
+tensorflow
+streamlit
+flask
+flask-cors
