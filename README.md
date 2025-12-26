@@ -132,7 +132,7 @@ Manage your personal clothing collection.
 ## 👨‍💻 Author
 
 **Shariq** - [GitHub](https://github.com/shariq8055)
-
+**SYED HASNAIN WASI** - [GitHub](https://github.com/hasnainnn06)
 ---
 
 ## 📄 License
